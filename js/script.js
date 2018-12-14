@@ -1,3 +1,3 @@
 $(function() {
-  console.log('mralexsatur@gmail.com')
+  console.log('Hello')
 })
