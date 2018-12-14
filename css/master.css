@@ -1,0 +1,14 @@
+:root {
+  --font: 'Muli', sans-serif;
+  --myGreen: #23BA7D;
+  --myYellow: #FCC63F;
+  --myRed: #E24A4A;
+  --myDarkBlue: #064F6B;
+  --myLightBlue: #497F93;
+}
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+  background-color: green;
+}
